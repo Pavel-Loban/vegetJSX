@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vegetJSX/static/css/main.1f57bec4.css",
-    "main.js": "/vegetJSX/static/js/main.d33bb9ff.js",
+    "main.css": "/vegetJSX/static/css/main.d926c807.css",
+    "main.js": "/vegetJSX/static/js/main.499ee053.js",
     "static/media/vegetables.jpg": "/vegetJSX/static/media/vegetables.e68e04cd51761ddcdec8.jpg",
     "static/media/fruits.jpg": "/vegetJSX/static/media/fruits.ad43c64875732c501850.jpg",
     "static/media/nuts.jpg": "/vegetJSX/static/media/nuts.7a52dc0f5a86f2010785.jpg",
@@ -28,11 +28,11 @@
     "static/media/faceBook.svg": "/vegetJSX/static/media/faceBook.fcae6cc2dbeb2f2e002a3d6169c99b8f.svg",
     "static/media/mail.svg": "/vegetJSX/static/media/mail.8780fad9a1acb240b1ff35bd2e329b61.svg",
     "static/media/Vector.svg": "/vegetJSX/static/media/Vector.330314a2e76af1ca81fe39503cae272e.svg",
-    "main.1f57bec4.css.map": "/vegetJSX/static/css/main.1f57bec4.css.map",
-    "main.d33bb9ff.js.map": "/vegetJSX/static/js/main.d33bb9ff.js.map"
+    "main.d926c807.css.map": "/vegetJSX/static/css/main.d926c807.css.map",
+    "main.499ee053.js.map": "/vegetJSX/static/js/main.499ee053.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f57bec4.css",
-    "static/js/main.d33bb9ff.js"
+    "static/css/main.d926c807.css",
+    "static/js/main.499ee053.js"
   ]
 }
